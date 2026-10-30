@@ -1,0 +1,2 @@
+"Model","N","N_params","LogLik_posterior_mean","LogLik_at_post_mean","LogLik_max_draw","lppd","WAIC","p_WAIC","DIC","p_DIC","Log_Marginal_Likelihood","LogML_error"
+"Piecewise exponential",521,12,-529.326781822447,-525.121957564393,-525.239690568549,-524.701693278622,1068.43453471994,9.5155740813457,1067.063212161,8.40964851610829,-535.781398128623,"0%"
